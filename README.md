@@ -1,4 +1,5 @@
 <img src="https://commkit.gsu.edu/files/2019/06/PrimaryLogo2color.jpg" width="250" height="200" />
+
 # CSC8850 - Advanced Machine Learning
 ## Final Project (Source Code) - Towards automatic identification of stance and premise about health mandates related to COVID-19
 ### Team members:
