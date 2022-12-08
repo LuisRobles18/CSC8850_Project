@@ -38,6 +38,10 @@ Moreover, the following Python modules are required:
 - matplotlib
 - seaborn (any version)
 
+## KANBAN BOARD
+
+<img src="kanban_board.png" />
+
 ## MORE INFORMATION ABOUT THIS TASK
 
 This project was based on the shared task from the Social Media Mining for Health 2022 [1].
